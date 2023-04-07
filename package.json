@@ -1,0 +1,23 @@
+{
+  "name": "@devopshint/new_npm",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devopshint/new_npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devopshint/new_npm/issues"
+  },
+  "publishConfig": {
+    "@devopshint:registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://github.com/devopshint/new_npm#readme"
+}
